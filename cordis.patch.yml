@@ -1,0 +1,6 @@
+# Bundle patch for dsh-slider-fusion.
+
+- insert:
+    - id: slider-fusion
+      name: dsh-slider-fusion
+      config: {}
